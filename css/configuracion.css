@@ -1,0 +1,13 @@
+/*Propiedades de la pag en general*/
+*{
+    margin: 15;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Propiedades de la vista de letras de html*/
+html{
+    font-size: 15px;
+    font-family: monospace;
+}
+

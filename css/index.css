@@ -1,0 +1,42 @@
+
+.carta{
+    width: auto;
+    align-content: center;
+    margin: 0rem 0rem 0rem 25rem;
+}
+
+.img1{
+    width: 50%;
+    height: 25rem;
+}
+
+.one{
+    width: 50%;
+    height: 6rem;
+    font-weight: 700;
+    text-align: center;
+    margin: 0 0 0 1rem;
+}
+
+.two{
+    width: 50%;
+    height: 4rem;
+    font-weight: 700;
+    font-size: 1.2rem;
+    margin: 0 0 0 1rem;
+    text-align: center;
+    color: red;
+}
+
+.boton{
+    text-align: center;
+    width: 20%;
+    height: 2.5rem;
+    background-color: #ec0b8e; 
+    border: none;
+    border-radius: 0.5rem 0.5rem 0.5rem 0.5rem;
+    color: white;
+    margin: 0 0 0 19rem;
+    font-size: 12px;
+} 
+
