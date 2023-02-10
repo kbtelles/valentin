@@ -3,11 +3,44 @@
     margin: 15;
     padding: 0;
     box-sizing: border-box;
+    
 }
 
 /*Propiedades de la vista de letras de html*/
 html{
     font-size: 15px;
     font-family: monospace;
+    border: solid 2rem ;
 }
 
+
+/*Media para versión escritorio*/
+@media only screen and (min-width: 375px){
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+
+    html{
+        font-size: 10px;
+    }
+}
+
+/*Media para versión escritorio*/
+@media only screen and (min-width: 1366px){
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        
+    }
+    
+    html{
+        font-size: 15px;
+        font-family: monospace;
+        border: solid 1rem ;
+        margin: auto;
+        width: 42.5rem;
+    }
+}
